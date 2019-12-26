@@ -3,3 +3,4 @@
 	2.Android四大组件安全设置
 	3.smali语法
 	4.Makefile中关于=的运算符
+	5.Android.bp
