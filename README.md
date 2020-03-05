@@ -4,3 +4,4 @@
 	3.smali语法
 	4.Makefile中关于=的运算符
 	5.Android.bp
+	6.C++中单冒号和双冒号
